@@ -1,0 +1,108 @@
+body {
+  background-color:#000000;
+  color: #fff710;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.site-header {
+  background-color: #fff;
+}
+
+.nav {
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  font-weight: bold;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+.nav li{
+  list-style: none;
+
+}
+
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.nav a {
+  display: flex;
+  flex-wrap:wrap ;
+  justify-content: space-around;
+
+  text-decoration: none;
+  color: #f00c0c;
+
+}
+
+.hero {
+  font-family: 'DM Serif Display', serif;
+  font-family: 'DM Serif Display', serif;
+  background-color: #2D2641;
+  color: rgb(11, 39, 248);
+}
+
+.hero h1 {
+  font-size: 72px;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+
+
+.hero a {
+  font-weight: bold;
+  letter-spacing: 1.5px;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.features h2 {
+  font-size: 72px;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+
+
+.features ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+}
+.features p {
+  width: 300px;
+}
+
+.features h3 {
+  font-size: 28px;
+  line-height: 38px;
+}
+.div-link ul{
+  display: flex;
+  justify-content: space-between;
+
+}
+.div-link li {
+  list-style: none;
+}
+.footr li {
+  list-style: none;
+  text-transform: uppercase;
+}
+.footr a{
+  text-decoration: none;
+}
+.footr{
+  display: flex;
+}
+.lik a{
+  text-decoration: none;
+}
